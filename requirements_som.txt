@@ -1,0 +1,9 @@
+minisom
+git+https://github.com/sevamoo/SOMPY
+#simpsom
+git+https://github.com/fcomitani/simpsom/@77d5411#egg=simpsom
+neupy
+kohonen
+#somoclu
+sklearn_som
+GEMA
